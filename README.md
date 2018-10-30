@@ -2,7 +2,7 @@ N-queen problem solver using Steepest HillClimbing and Simulated Annealing
 
 Description
 ----
-This program solves any n-queen problem with any initial configurations. The goal state is to have n queens placed on a nxn board such that no two pairs of queens are attacking. 
+This program solves the n-queen problem with any initial configurations. The goal state is to have n queens placed on a nxn board such that no two pairs of queens are attacking. 
 
 
 How to run the program
